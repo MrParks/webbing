@@ -1,0 +1,18 @@
+body {
+  background-color: #ccffcc;
+}
+
+hr {
+  border-color: lightgray;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 10%;
+}
+
+h1, h3 {
+  color:#13BFBF;
+}
+
+.lep{border-radius: 100%;}
+
+img:hover{background-color: gold;}
